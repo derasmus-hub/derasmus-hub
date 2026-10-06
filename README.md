@@ -1,32 +1,65 @@
 # Hi, I'm Duan
 
-I build small, explicit systems with Python, n8n, and LLMs.
+I have a background in Management Information Systems and I work with AI integration, automation and backend systems.
 
-I'm a self-taught engineer and co-founder of Erasmus Labs, a Business IT English language school in Poland. I handle the backend, automation, and AI integration work on our internal tooling. Most of what I ship is prototypes and personal builds, which is how I've been learning the stack for the past three years.
+Since 2022 I have been building and experimenting with software and AI systems through Erasmus Labs.
 
-## Currently working on
+A lot of my work has focused on understanding how different systems connect and how AI and automation can be used inside real software instead of standing on their own.
 
-- **Erasmus Labs platform** — FastAPI + PostgreSQL + Docker. Student intake, CEFR assessment flows, AI-mediated data access. Actively evolving.
-- **Writing up my Claude Code workflow method** — numbered prompts with verify steps, coworker delegation. See the repo below.
+## What I work with
 
-## Stack
+Python
 
-- **Backend**: Python, FastAPI, PostgreSQL, Docker, REST, webhooks, JSON
-- **AI / LLMs**: Claude (Opus / Sonnet), GPT-4o-mini, raw Anthropic and OpenAI APIs
-- **Automation**: n8n (daily), scheduled pipelines, webhook orchestration
-- **Daily tools**: Claude Code, VS Code, Git, Bash, PowerShell
-- **Integrations I've wired up**: Gmail, Google Calendar, Drive, Sheets, Business Profile, Telegram Bot API, GitHub, Allegro, POS systems
+FastAPI
 
-## Pinned repos
+PostgreSQL
 
-- [claude-code-workflow-method](https://github.com/derasmus-hub/claude-code-workflow-method) — how I use Claude Code day to day
-- [openclaw-daily-briefing](https://github.com/derasmus-hub/openclaw-daily-briefing) — n8n automation for my personal daily briefing
+REST APIs
 
-## Where to find me
+Docker
 
-- LinkedIn: [linkedin.com/in/duan-erasmus](https://www.linkedin.com/in/duan-erasmus)
-- Email: erasmusduan@gmail.com
+n8n
 
----
+OpenAI API
 
-*Based in Poland. Remote, EU timezone. Open to discuss automation, AI-assisted development, and internal tools work.*
+OpenAI Codex
+
+Claude
+
+Claude Code
+
+AI agents
+
+Git
+
+PowerShell
+
+Bash
+
+## Current work
+
+One of my main ongoing projects is an AI assisted computer vision security system.
+
+The project involves computer vision, backend development, databases, testing and AI assisted software development.
+
+The system is under active development and the core architecture and implementation are private.
+
+I also spend a lot of time working with AI coding agents from OpenAI and Anthropic for implementation, debugging, testing, research and development.
+
+## What I am interested in
+
+AI integration
+
+Agent workflows
+
+Business automation
+
+Systems integration
+
+Backend development
+
+Human oversight in AI systems
+
+## Connect
+
+LinkedIn: linkedin.com/in/duan-erasmus
